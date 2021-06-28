@@ -24,4 +24,9 @@
 * [4. 共用体](fu-he-lei-xing/4.-gong-yong-ti.md)
 * [5. 指针和自由存储空间](fu-he-lei-xing/5.-zhi-zhen-he-zi-you-cun-chu-kong-jian.md)
 * [6. 指针、数组和指针算术](fu-he-lei-xing/6.-zhi-zhen-shu-zu-he-zhi-zhen-suan-shu.md)
+* [7. 数组的替代品](fu-he-lei-xing/7.-shu-zu-de-ti-dai-pin.md)
+
+## 循环和关系表达式
+
+* [1. for 循环](xun-huan-he-guan-xi-biao-da-shi/1.-for-xun-huan.md)
 
