@@ -31,7 +31,11 @@
 * [1. for 循环](xun-huan-he-guan-xi-biao-da-shi/1.-for-xun-huan.md)
 * [2. while 循环](xun-huan-he-guan-xi-biao-da-shi/2.-while-xun-huan.md)
 
-## 分支语句和逻辑运算符
+## 简单文件输入/输出 <a id="fen-zhi-yu-ju-he-luo-ji-yun-suan-fu"></a>
 
-* [if 语句](fen-zhi-yu-ju-he-luo-ji-yun-suan-fu/if-yu-ju.md)
+* [1. 简单文件输入 / 输出](fen-zhi-yu-ju-he-luo-ji-yun-suan-fu/if-yu-ju.md)
+
+## 函数——C++的编程模块
+
+* [1. 函数的基本知识](han-shu-c++-de-bian-cheng-mo-kuai/1.-han-shu-de-ji-ben-zhi-shi.md)
 
