@@ -29,4 +29,9 @@
 ## 循环和关系表达式
 
 * [1. for 循环](xun-huan-he-guan-xi-biao-da-shi/1.-for-xun-huan.md)
+* [2. while 循环](xun-huan-he-guan-xi-biao-da-shi/2.-while-xun-huan.md)
+
+## 分支语句和逻辑运算符
+
+* [if 语句](fen-zhi-yu-ju-he-luo-ji-yun-suan-fu/if-yu-ju.md)
 
