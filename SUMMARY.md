@@ -38,4 +38,5 @@
 ## 函数——C++的编程模块
 
 * [1. 函数的基本知识](han-shu-c++-de-bian-cheng-mo-kuai/1.-han-shu-de-ji-ben-zhi-shi.md)
+* [2. 函数和数组](han-shu-c++-de-bian-cheng-mo-kuai/2.-han-shu-he-shu-zu.md)
 
