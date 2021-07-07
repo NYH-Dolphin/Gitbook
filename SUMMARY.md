@@ -42,4 +42,5 @@
 * [3. 函数和二维数组](han-shu-c++-de-bian-cheng-mo-kuai/3.-han-shu-he-er-wei-shu-zu.md)
 * [4. 函数和结构](han-shu-c++-de-bian-cheng-mo-kuai/4.-han-shu-he-jie-gou.md)
 * [5. 函数和 string、array 对象](han-shu-c++-de-bian-cheng-mo-kuai/5.-han-shu-he-stringarray-dui-xiang.md)
+* [6. 函数指针](han-shu-c++-de-bian-cheng-mo-kuai/6.-han-shu-zhi-zhen.md)
 
