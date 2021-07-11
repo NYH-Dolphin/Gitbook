@@ -44,3 +44,7 @@
 * [5. 函数和 string、array 对象](han-shu-c++-de-bian-cheng-mo-kuai/5.-han-shu-he-stringarray-dui-xiang.md)
 * [6. 函数指针](han-shu-c++-de-bian-cheng-mo-kuai/6.-han-shu-zhi-zhen.md)
 
+## 函数探幽
+
+* [1. 内联函数](han-shu-tan-you/1.-nei-lian-han-shu.md)
+
