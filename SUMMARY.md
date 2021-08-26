@@ -48,4 +48,5 @@
 
 * [1. 内联函数](han-shu-tan-you/1.-nei-lian-han-shu.md)
 * [2. 引用变量](han-shu-tan-you/2.-yin-yong-bian-liang.md)
+* [3. 默认参数](han-shu-tan-you/3.-mo-ren-can-shu.md)
 
