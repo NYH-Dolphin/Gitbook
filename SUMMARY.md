@@ -49,4 +49,10 @@
 * [1. 内联函数](han-shu-tan-you/1.-nei-lian-han-shu.md)
 * [2. 引用变量](han-shu-tan-you/2.-yin-yong-bian-liang.md)
 * [3. 默认参数](han-shu-tan-you/3.-mo-ren-can-shu.md)
+* [4. 函数模板 - 泛型](han-shu-tan-you/4.-han-shu-mo-ban-fan-xing.md)
+
+## 内存模型和命名空间
+
+* [1. 单独编译](nei-cun-mo-xing-he-ming-ming-kong-jian/1.-dan-du-bian-yi.md)
+* [2. 存储持续性、作用域和链接性](nei-cun-mo-xing-he-ming-ming-kong-jian/2.-cun-chu-chi-xu-xing-zuo-yong-yu-he-lian-jie-xing.md)
 
