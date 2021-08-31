@@ -60,4 +60,5 @@
 ## 对象和类
 
 * [1. 过程性编程和面向对象编程](dui-xiang-he-lei/1.-guo-cheng-xing-bian-cheng-he-mian-xiang-dui-xiang-bian-cheng.md)
+* [2. 抽象和类](dui-xiang-he-lei/2.-chou-xiang-he-lei.md)
 
