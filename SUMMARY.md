@@ -62,5 +62,4 @@
 * [1. 过程性编程和面向对象编程](dui-xiang-he-lei/1.-guo-cheng-xing-bian-cheng-he-mian-xiang-dui-xiang-bian-cheng.md)
 * [2. 抽象和类](dui-xiang-he-lei/2.-chou-xiang-he-lei.md)
 * [3. 类的构造函数和析构函数](dui-xiang-he-lei/3.-lei-de-gou-zao-han-shu-he-xi-gou-han-shu.md)
-* [Untitled](dui-xiang-he-lei/untitled.md)
 
