@@ -1,8 +1,6 @@
 ---
-description: 一个关于学习 C++ 的笔记
+description: This is a book for TOEFL perparation.
 ---
 
-# C++
-
-本笔记来源 《C++ Primer Plus（第 6 版）》
+# TOEFL Preparation
 
